@@ -86,8 +86,4 @@ public class Balão {
         this.capacidadePessoa = capacidadePessoa;
     }
 
-    // metodos
-    public String voar(Combustivel gasPropano) {
-        return "voando com" + gasPropano;
-    }
 }
